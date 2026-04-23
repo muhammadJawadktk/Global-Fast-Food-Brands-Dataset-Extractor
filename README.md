@@ -1,0 +1,1 @@
+# Global-Fast-Food-Brands-Dataset-Extractor
